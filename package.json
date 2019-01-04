@@ -1,0 +1,19 @@
+{
+  "name": "chemical-composition",
+  "version": "1.0.0",
+  "description": "For a given chemical formula represented by a string, returns an object where keys correspond to atoms and values to the number of each atom in the molecule",
+  "main": "index.js",
+  "author": "Jean-Guillaume Buret <hello@jgburet.me>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "eslint": "^5.11.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jest": "^22.1.2",
+    "jest": "^23.6.0"
+  }
+}
