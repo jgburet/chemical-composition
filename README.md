@@ -21,6 +21,11 @@ As you can see, some formulas have brackets in them. The index outside the brack
 
 Note that brackets may be round, square or curly and can also be nested. Index after the braces is optional.
 
+## Run the test suite
+```sh
+yarn
+yarn test
+```
 
 ## Fun fact
 
